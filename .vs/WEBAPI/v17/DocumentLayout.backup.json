@@ -1,0 +1,921 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90FA3EC0-1C9E-4097-8A60-1BB4D4620360}|WebApi\\WebApi.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\webapi\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FA3EC0-1C9E-4097-8A60-1BB4D4620360}|WebApi\\WebApi.csproj|solutionrelative:webapi\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FA3EC0-1C9E-4097-8A60-1BB4D4620360}|WebApi\\WebApi.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FA3EC0-1C9E-4097-8A60-1BB4D4620360}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FA3EC0-1C9E-4097-8A60-1BB4D4620360}|WebApi\\WebApi.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\webapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FA3EC0-1C9E-4097-8A60-1BB4D4620360}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FA3EC0-1C9E-4097-8A60-1BB4D4620360}|WebApi\\WebApi.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FA3EC0-1C9E-4097-8A60-1BB4D4620360}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\infrastructure\\identity\\identityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\identityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\infrastructure\\identity\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\infrastructure\\identity\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\userroleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\userroleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\userrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\userrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\changeuserstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\changeuserstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\queries\\getuserrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\queries\\getuserrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\queries\\getuserpermissionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\queries\\getuserpermissionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\queries\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\queries\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\commands\\updateuserstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\commands\\updateuserstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\commands\\updateuserrolescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\commands\\updateuserrolescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\users\\commands\\changeuserpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\users\\commands\\changeuserpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\infrastructure\\identity\\currentusermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\currentusermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\infrastructure\\identity\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971A1F14-DB59-49F6-8049-FEFC0A77E50E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\queries\\getrolewithpermissionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\queries\\getrolewithpermissionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\queries\\getrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\queries\\getrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\queries\\getrolebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\queries\\getrolebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\commands\\updaterolepermissionscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\commands\\updaterolepermissionscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\commands\\updaterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\commands\\updaterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\commands\\deleterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\commands\\deleterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\commands\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\commands\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\roleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\roleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\updaterolepermissionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\updaterolepermissionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\identity\\role\\updaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\identity\\role\\updaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FA3EC0-1C9E-4097-8A60-1BB4D4620360}|WebApi\\WebApi.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\webapi\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FA3EC0-1C9E-4097-8A60-1BB4D4620360}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\pipelines\\validationpipelinebenaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\pipelines\\validationpipelinebenaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\companies\\queries\\getcompanybynamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\companies\\queries\\getcompanybynamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\companies\\commands\\updatecompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\companies\\commands\\updatecompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\pipelines\\ivalidateme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\pipelines\\ivalidateme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\companies\\commands\\createcompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\companies\\commands\\createcompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\companies\\queries\\getcompaniesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\companies\\queries\\getcompaniesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\companies\\createcompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\companies\\createcompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\companies\\validations\\updatecompanycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\companies\\validations\\updatecompanycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\companies\\validations\\updatecompanyrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\companies\\validations\\updatecompanyrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|c:\\users\\netsd\\desktop\\microsoft\\web_api\\webapi\\application\\features\\companies\\queries\\getcompanybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD493-7200-4A93-83A4-A00A70176785}|Application\\Application.csproj|solutionrelative:application\\features\\companies\\queries\\getcompanybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\WebApi\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApi\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\WebApi\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "WebApi\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:26:15.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:19:51.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\WebApi\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\WebApi\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:18:20.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:06:12.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\UpdateUserRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:46:33.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Identity\\IdentityHelper.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\IdentityHelper.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Identity\\IdentityHelper.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\IdentityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:14:55.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Startup.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Startup.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Startup.cs",
+              "RelativeToolTip": "Infrastructure\\Startup.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAUwAMBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:36:23.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Identity\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Identity\\CurrentUserService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:16:56.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Identity\\UserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\UserService.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Identity\\UserService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\UserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:57:07.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRoleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\UserRoleRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\UserRoleRequest.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\UserRoleRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\UserRoleRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:45:41.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRoleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\UserRoleResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\UserRoleResponse.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\UserRoleResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\UserRoleResponse.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:44:50.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\IUserService.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\IUserService.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\IUserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:46:58.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\ICurrentUserService.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:47:29.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\UserResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\UserResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\UserResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:46:07.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\CreateUserRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\CreateUserRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:47:57.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChangeUserStatusRequest.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\ChangeUserStatusRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\ChangeUserStatusRequest.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\ChangeUserStatusRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\ChangeUserStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:48:23.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:48:46.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetUserRolesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Queries\\GetUserRolesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Queries\\GetUserRolesQuery.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Queries\\GetUserRolesQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Queries\\GetUserRolesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:49:35.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetUserPermissionsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Queries\\GetUserPermissionsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Queries\\GetUserPermissionsQuery.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Queries\\GetUserPermissionsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Queries\\GetUserPermissionsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:50:01.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:50:25.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Queries\\GetAllUsersQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Queries\\GetAllUsersQuery.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Queries\\GetAllUsersQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Queries\\GetAllUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:50:51.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateUserStatusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\UpdateUserStatusCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Commands\\UpdateUserStatusCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\UpdateUserStatusCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Commands\\UpdateUserStatusCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:51:29.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateUserRolesCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\UpdateUserRolesCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Commands\\UpdateUserRolesCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\UpdateUserRolesCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Commands\\UpdateUserRolesCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:51:58.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Commands\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\UpdateUserCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Commands\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:52:23.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Commands\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\DeleteUserCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Commands\\DeleteUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:52:46.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:53:13.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChangeUserPasswordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\ChangeUserPasswordCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Users\\Commands\\ChangeUserPasswordCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Users\\Commands\\ChangeUserPasswordCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Users\\Commands\\ChangeUserPasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:53:41.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CurrentUserMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Identity\\CurrentUserMiddleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\CurrentUserMiddleware.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Identity\\CurrentUserMiddleware.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\CurrentUserMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:16:15.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Identity\\RoleService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\RoleService.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Infrastructure\\Identity\\RoleService.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\RoleService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAywC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:13:46.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetRoleWithPermissionsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Queries\\GetRoleWithPermissionsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\Queries\\GetRoleWithPermissionsQuery.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Queries\\GetRoleWithPermissionsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\Queries\\GetRoleWithPermissionsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:07:59.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetRolesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Queries\\GetRolesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\Queries\\GetRolesQuery.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Queries\\GetRolesQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\Queries\\GetRolesQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:07:34.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetRoleByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Queries\\GetRoleByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\Queries\\GetRoleByIdQuery.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Queries\\GetRoleByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\Queries\\GetRoleByIdQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:07:08.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateRolePermissionsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Commands\\UpdateRolePermissionsCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\Commands\\UpdateRolePermissionsCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Commands\\UpdateRolePermissionsCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\Commands\\UpdateRolePermissionsCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:06:33.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateRoleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Commands\\UpdateRoleCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\Commands\\UpdateRoleCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Commands\\UpdateRoleCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\Commands\\UpdateRoleCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:06:01.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteRoleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Commands\\DeleteRoleCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\Commands\\DeleteRoleCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Commands\\DeleteRoleCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\Commands\\DeleteRoleCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:05:32.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateRoleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Commands\\CreateRoleCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\Commands\\CreateRoleCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\Commands\\CreateRoleCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\Commands\\CreateRoleCommand.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:03:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateRoleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\CreateRoleRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\CreateRoleRequest.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\CreateRoleRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\CreateRoleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:02:47.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\IRoleService.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\IRoleService.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\IRoleService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:02:17.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\RoleResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\RoleResponse.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\RoleResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\RoleResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:01:47.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateRolePermissionsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\UpdateRolePermissionsRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\UpdateRolePermissionsRequest.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\UpdateRolePermissionsRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\UpdateRolePermissionsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:01:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateRoleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\UpdateRoleRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Identity\\Role\\UpdateRoleRequest.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Identity\\Role\\UpdateRoleRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Identity\\Role\\UpdateRoleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:01:00.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T07:59:35.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ValidationPipelineBenaviour.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Pipelines\\ValidationPipelineBenaviour.cs",
+              "RelativeDocumentMoniker": "Application\\Pipelines\\ValidationPipelineBenaviour.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Pipelines\\ValidationPipelineBenaviour.cs",
+              "RelativeToolTip": "Application\\Pipelines\\ValidationPipelineBenaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:40:30.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IValidateMe.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Pipelines\\IValidateMe.cs",
+              "RelativeDocumentMoniker": "Application\\Pipelines\\IValidateMe.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Pipelines\\IValidateMe.cs",
+              "RelativeToolTip": "Application\\Pipelines\\IValidateMe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:40:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateCompanyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Commands\\CreateCompanyCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Companies\\Commands\\CreateCompanyCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Commands\\CreateCompanyCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Companies\\Commands\\CreateCompanyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:39:10.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetCompaniesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Queries\\GetCompaniesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Companies\\Queries\\GetCompaniesQuery.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Queries\\GetCompaniesQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Companies\\Queries\\GetCompaniesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:36:33.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateCompanyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Commands\\UpdateCompanyCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Companies\\Commands\\UpdateCompanyCommand.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Commands\\UpdateCompanyCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Companies\\Commands\\UpdateCompanyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:48:31.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetCompanyByNameQuery.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Queries\\GetCompanyByNameQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Companies\\Queries\\GetCompanyByNameQuery.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Queries\\GetCompanyByNameQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Companies\\Queries\\GetCompanyByNameQuery.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB8AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:07:59.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\WebApi\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\WebApi\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA+wCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:31:58.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateCompanyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\CreateCompanyRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Companies\\CreateCompanyRequest.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\CreateCompanyRequest.cs",
+              "RelativeToolTip": "Application\\Features\\Companies\\CreateCompanyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:38:43.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateCompanyCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Validations\\UpdateCompanyCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Companies\\Validations\\UpdateCompanyCommandValidator.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Validations\\UpdateCompanyCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Companies\\Validations\\UpdateCompanyCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:29:39.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateCompanyRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Validations\\UpdateCompanyRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Companies\\Validations\\UpdateCompanyRequestValidator.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Validations\\UpdateCompanyRequestValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Companies\\Validations\\UpdateCompanyRequestValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:26:56.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetCompanyByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Queries\\GetCompanyByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Companies\\Queries\\GetCompanyByIdQuery.cs",
+              "ToolTip": "C:\\Users\\netsd\\Desktop\\Microsoft\\WEB_API\\WEBAPI\\Application\\Features\\Companies\\Queries\\GetCompanyByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Companies\\Queries\\GetCompanyByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:05:15.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
